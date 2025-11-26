@@ -51,6 +51,7 @@
 				Models/Profile.swift,
 				Resources/hikeData.json,
 				Resources/landmarkData.json,
+				Resources/landmarkDataEurope.json,
 				Views/Helpers/CircleImage.swift,
 				Views/Helpers/MapView.swift,
 				Views/Landmarks/LandmarkList.swift,

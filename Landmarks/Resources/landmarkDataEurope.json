@@ -1,0 +1,162 @@
+[
+  {
+    "id": 2001,
+    "name": "Rhine River",
+    "category": "Rivers",
+    "city": "Basel",
+    "state": "Switzerland",
+    "isFeatured": false,
+    "isFavorite": false,
+    "park": "Rhine Valley",
+    "coordinates": {
+      "longitude": 7.5886,
+      "latitude": 47.5596
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "imageName": "rhine_river"
+  },
+  {
+    "id": 2002,
+    "name": "Lake Geneva",
+    "category": "Lakes",
+    "city": "Geneva",
+    "state": "Switzerland",
+    "isFeatured": true,
+    "isFavorite": true,
+    "park": "Lake Geneva Region",
+    "coordinates": {
+      "longitude": 6.6333,
+      "latitude": 46.4333
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "imageName": "lake_geneva"
+  },
+  {
+    "id": 2003,
+    "name": "Matterhorn",
+    "category": "Mountains",
+    "city": "Zermatt",
+    "state": "Switzerland",
+    "isFeatured": true,
+    "isFavorite": false,
+    "park": "Matterhorn Park",
+    "coordinates": {
+      "longitude": 7.6586,
+      "latitude": 45.9763
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "imageName": "matterhorn"
+  },
+  {
+    "id": 2004,
+    "name": "Danube River",
+    "category": "Rivers",
+    "city": "Vienna",
+    "state": "Austria",
+    "isFeatured": false,
+    "isFavorite": true,
+    "park": "Danube River Basin",
+    "coordinates": {
+      "longitude": 16.3738,
+      "latitude": 48.2082
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "imageName": "danube_river"
+  },
+  {
+    "id": 2005,
+    "name": "Lake Balaton",
+    "category": "Lakes",
+    "city": "Siófok",
+    "state": "Hungary",
+    "isFeatured": false,
+    "isFavorite": false,
+    "park": "Balaton Uplands National Park",
+    "coordinates": {
+      "longitude": 18.0450,
+      "latitude": 46.9145
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "imageName": "lake_balaton"
+  },
+  {
+    "id": 2006,
+    "name": "Mont Blanc",
+    "category": "Mountains",
+    "city": "Chamonix",
+    "state": "France",
+    "isFeatured": true,
+    "isFavorite": true,
+    "park": "Mont Blanc Massif",
+    "coordinates": {
+      "longitude": 6.8652,
+      "latitude": 45.8326
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "imageName": "mont_blanc"
+  },
+  {
+    "id": 2007,
+    "name": "Po River",
+    "category": "Rivers",
+    "city": "Turin",
+    "state": "Italy",
+    "isFeatured": false,
+    "isFavorite": false,
+    "park": "Po River Park",
+    "coordinates": {
+      "longitude": 7.6869,
+      "latitude": 45.0703
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "imageName": "po_river"
+  },
+  {
+    "id": 2008,
+    "name": "Lake Como",
+    "category": "Lakes",
+    "city": "Como",
+    "state": "Italy",
+    "isFeatured": true,
+    "isFavorite": false,
+    "park": "Lake Como Region",
+    "coordinates": {
+      "longitude": 9.2572,
+      "latitude": 46.0167
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "imageName": "lake_como"
+  },
+  {
+    "id": 2009,
+    "name": "Grossglockner",
+    "category": "Mountains",
+    "city": "Heiligenblut",
+    "state": "Austria",
+    "isFeatured": false,
+    "isFavorite": true,
+    "park": "Hohe Tauern National Park",
+    "coordinates": {
+      "longitude": 12.6967,
+      "latitude": 47.0749
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "imageName": "grossglockner"
+  },
+  {
+    "id": 2010,
+    "name": "Loire River",
+    "category": "Rivers",
+    "city": "Orléans",
+    "state": "France",
+    "isFeatured": false,
+    "isFavorite": false,
+    "park": "Loire Valley",
+    "coordinates": {
+      "longitude": 1.9093,
+      "latitude": 47.9030
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "imageName": "loire_river"
+  }
+]
