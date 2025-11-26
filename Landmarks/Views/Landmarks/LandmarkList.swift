@@ -1,6 +1,6 @@
 //
 //  LandmarkList.swift
-//  SwiftUITutorial
+//  Landmarks
 //
 //  Created by Zhoro on 11/26/25.
 //

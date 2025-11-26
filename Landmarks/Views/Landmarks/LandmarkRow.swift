@@ -1,6 +1,6 @@
 //
 //  LandmarkRow.swift
-//  SwiftUITutorial
+//  Landmarks
 //
 //  Created by Zhoro on 11/25/25.
 //
