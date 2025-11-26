@@ -39,9 +39,33 @@
 		A97410442ED773D600DDE9E6 /* WatchLandmarksApp Watch App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "WatchLandmarksApp Watch App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		A974116D2ED776C700DDE9E6 /* Exceptions for "Landmarks" folder in "WatchLandmarksApp Watch App" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Assets.xcassets,
+				LandmarksApp.swift,
+				Models/Hike.swift,
+				Models/Landmark.swift,
+				Models/ModelData.swift,
+				Models/Profile.swift,
+				Resources/hikeData.json,
+				Resources/landmarkData.json,
+				Views/Helpers/CircleImage.swift,
+				Views/Helpers/MapView.swift,
+				Views/Landmarks/LandmarkList.swift,
+				Views/Landmarks/LandmarkRow.swift,
+			);
+			target = A97410432ED773D600DDE9E6 /* WatchLandmarksApp Watch App */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		A9740E642ED62DE200DDE9E6 /* Landmarks */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				A974116D2ED776C700DDE9E6 /* Exceptions for "Landmarks" folder in "WatchLandmarksApp Watch App" target */,
+			);
 			path = Landmarks;
 			sourceTree = "<group>";
 		};
