@@ -26,14 +26,14 @@ struct ContentView: View {
                 .font(.subheadline)
                 .foregroundStyle(.secondary)
                 .padding(.bottom, 4)
-                
+
                 Divider()
+
                 Text("About Turtle Rock").font(.title2)
                 Text("Descriptive text goes here.")
-                
             }
             .padding()
-            
+
             Spacer()
         }
     }

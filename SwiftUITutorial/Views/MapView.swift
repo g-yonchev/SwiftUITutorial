@@ -19,7 +19,6 @@ struct MapView: View {
             span: MKCoordinateSpan(latitudeDelta: 0.2, longitudeDelta: 0.2)
         )
     }
-    
 }
 
 #Preview {
