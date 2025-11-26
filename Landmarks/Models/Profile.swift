@@ -11,11 +11,11 @@ struct Profile {
     var username: String
     var prefersNotifications: Bool = true
     var goalDate: Date = Date()
-    var seasonalPhoto: Seasons = Seasons.summer
+    var seasonalPhoto: Season = Season.summer
 
     static let `default` = Profile(username: "g_yonchev")
 
-    enum Seasons: String {
+    enum Season: String, CaseIterable, Identifiable {
         case winter = "☃️"
         case spring = "🌷"
         case summer = "🌞"
