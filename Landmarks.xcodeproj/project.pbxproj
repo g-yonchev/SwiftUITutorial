@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		A9740E622ED62DE200DDE9E6 /* SwiftUITutorial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUITutorial.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A9740E622ED62DE200DDE9E6 /* Landmarks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Landmarks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		A9740E642ED62DE200DDE9E6 /* SwiftUITutorial */ = {
+		A9740E642ED62DE200DDE9E6 /* Landmarks */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = SwiftUITutorial;
+			path = Landmarks;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		A9740E592ED62DE200DDE9E6 = {
 			isa = PBXGroup;
 			children = (
-				A9740E642ED62DE200DDE9E6 /* SwiftUITutorial */,
+				A9740E642ED62DE200DDE9E6 /* Landmarks */,
 				A9740E632ED62DE200DDE9E6 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -40,7 +40,7 @@
 		A9740E632ED62DE200DDE9E6 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A9740E622ED62DE200DDE9E6 /* SwiftUITutorial.app */,
+				A9740E622ED62DE200DDE9E6 /* Landmarks.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A9740E612ED62DE200DDE9E6 /* SwiftUITutorial */ = {
+		A9740E612ED62DE200DDE9E6 /* Landmarks */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A9740E6D2ED62DE400DDE9E6 /* Build configuration list for PBXNativeTarget "SwiftUITutorial" */;
+			buildConfigurationList = A9740E6D2ED62DE400DDE9E6 /* Build configuration list for PBXNativeTarget "Landmarks" */;
 			buildPhases = (
 				A9740E5E2ED62DE200DDE9E6 /* Sources */,
 				A9740E5F2ED62DE200DDE9E6 /* Frameworks */,
@@ -61,13 +61,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				A9740E642ED62DE200DDE9E6 /* SwiftUITutorial */,
+				A9740E642ED62DE200DDE9E6 /* Landmarks */,
 			);
-			name = SwiftUITutorial;
+			name = Landmarks;
 			packageProductDependencies = (
 			);
 			productName = SwiftUITutorial;
-			productReference = A9740E622ED62DE200DDE9E6 /* SwiftUITutorial.app */;
+			productReference = A9740E622ED62DE200DDE9E6 /* Landmarks.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = A9740E5D2ED62DE200DDE9E6 /* Build configuration list for PBXProject "SwiftUITutorial" */;
+			buildConfigurationList = A9740E5D2ED62DE200DDE9E6 /* Build configuration list for PBXProject "Landmarks" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A9740E612ED62DE200DDE9E6 /* SwiftUITutorial */,
+				A9740E612ED62DE200DDE9E6 /* Landmarks */,
 			);
 		};
 /* End PBXProject section */
@@ -332,7 +332,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A9740E5D2ED62DE200DDE9E6 /* Build configuration list for PBXProject "SwiftUITutorial" */ = {
+		A9740E5D2ED62DE200DDE9E6 /* Build configuration list for PBXProject "Landmarks" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A9740E6B2ED62DE400DDE9E6 /* Debug */,
@@ -341,7 +341,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A9740E6D2ED62DE400DDE9E6 /* Build configuration list for PBXNativeTarget "SwiftUITutorial" */ = {
+		A9740E6D2ED62DE400DDE9E6 /* Build configuration list for PBXNativeTarget "Landmarks" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A9740E6E2ED62DE400DDE9E6 /* Debug */,
